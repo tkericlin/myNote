@@ -1,0 +1,9 @@
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WindowsFormsApplicationCH4\WindowsFormsApplicationCH4\bin\Debug\WindowsFormsApplicationCH4.exe
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WindowsFormsApplicationCH4\WindowsFormsApplicationCH4\bin\Debug\WindowsFormsApplicationCH4.pdb
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WindowsFormsApplicationCH4\WindowsFormsApplicationCH4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WindowsFormsApplicationCH4\WindowsFormsApplicationCH4\obj\x86\Debug\WindowsFormsApplicationCH4.MyNote.resources
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WindowsFormsApplicationCH4\WindowsFormsApplicationCH4\obj\x86\Debug\WindowsFormsApplicationCH4.Properties.Resources.resources
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WindowsFormsApplicationCH4\WindowsFormsApplicationCH4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WindowsFormsApplicationCH4\WindowsFormsApplicationCH4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WindowsFormsApplicationCH4\WindowsFormsApplicationCH4\obj\x86\Debug\WindowsFormsApplicationCH4.exe
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WindowsFormsApplicationCH4\WindowsFormsApplicationCH4\obj\x86\Debug\WindowsFormsApplicationCH4.pdb
